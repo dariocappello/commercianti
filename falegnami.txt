@@ -1,4 +1,4 @@
-Barba S.r.l., Via Marconi Guglielmo, 9"
-Rosafio Giuseppe Falegnameria, Via Giacomo Matteotti, 74" 
-Falegnameria di Mazzotta Antonio, Via Carnaro, 14"
-Quarta Giuseppe, Via Montenero, 56"
+Barba S.r.l., Via Marconi Guglielmo, 9;
+Rosafio Giuseppe Falegnameria, Via Giacomo Matteotti, 74; 
+Falegnameria di Mazzotta Antonio, Via Carnaro, 14;
+Quarta Giuseppe, Via Montenero, 56;
