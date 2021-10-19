@@ -1,3 +1,3 @@
-D.S.I. DI SPEDICATO DIEGO, Via Monte Sabotino, 68"
-Ripetta Ilario, Via Monte Grappa, 86"
-Tecnoservice di Avantaggiato Gianluca, Via XXI Aprile, 58"
+D.S.I. DI SPEDICATO DIEGO, Via Monte Sabotino, 68;
+Ripetta Ilario, Via Monte Grappa, 86;
+Tecnoservice di Avantaggiato Gianluca, Via XXI Aprile, 58;
