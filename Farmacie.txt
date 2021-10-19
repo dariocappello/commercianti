@@ -1,4 +1,4 @@
-Farmacia Caputo S.n.c, Via Vittorio Emanuele III, 59"
-Farmacia del Corso, Corso Umberto I, 2002
-Farmacia Palmieri,  Via Alcide De Gasperi, 9"
-Farmacia San Pio, Via Medaglie D'Oro Monteronesi"
+Farmacia Caputo S.n.c, Via Vittorio Emanuele III, 59;
+Farmacia del Corso, Corso Umberto I, 2002;
+Farmacia Palmieri,  Via Alcide De Gasperi, 9;
+Farmacia San Pio, Via Medaglie D'Oro Monteronesi;
