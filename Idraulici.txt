@@ -1,2 +1,2 @@
-Ripetta Ilario, Via Montegrappa, 86"
-Tecnoservice di Avantaggiato Gianluca, Via XXI Aprile, 58"
+Ripetta Ilario, Via Montegrappa, 86;
+Tecnoservice di Avantaggiato Gianluca, Via XXI Aprile, 58;
